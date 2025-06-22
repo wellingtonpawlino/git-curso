@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="./assets/gitIA3.png" alt="Banner Git Tutorial" width="600"/>
+  <img src="./assets/gitIA5.png" alt="Banner Git Tutorial" width="600"/>
 </p>
 
 <h1 align="center">🚀 Tutorial Git: Minha Jornada do Zero ao Avançado</h1>
