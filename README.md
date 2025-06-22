@@ -1,36 +1,35 @@
 
-![Banner Git GitHub IA](./assets/gitIA2.png)
+<p align="center">
+  <img src="./assets/gitIA3.png" alt="Banner Git Tutorial" width="600"/>
+</p>
 
+<h1 align="center">🚀 Tutorial Git: Minha Jornada do Zero ao Avançado</h1>
 
-
-
-# 🚀 Tutorial Git: Minha Jornada do Zero ao Avançado
-
-Este repositório é um **registro da minha jornada aprendendo Git por conta própria**. Comecei sem saber nada e fui anotando os comandos, práticas e aprendizados que me ajudaram a entender e dominar o Git no dia a dia.
-
-Se você também está começando, talvez esse material te ajude a entender Git de forma simples e prática — como eu gostaria de ter encontrado no início.
+<p align="center">
+  <em>Documentando cada passo, comando e aprendizado — do caos ao controle com Git 💡</em>
+</p>
 
 ---
 
 ## 📚 O que você vai encontrar aqui
 
-| Etapa | Tópico | Descrição |
-|-------|--------|-----------|
-| 🟢 Início | O que é Git? | Instalação, primeiros comandos, entender o versionamento |
-| ✍️ Commits | Salvando alterações | `git add`, `git commit`, ver histórico |
-| 🌿 Branches | Trabalhando com versões paralelas | Criar, mudar, unir branches (`merge`) |
-| 🌐 Remoto | GitHub e repositórios remotos | `git push`, `git pull`, `git clone` |
-| 🔄 Pull Request | Colaboração | Como funciona, quando usar, por que é importante |
-| 🧠 Avançado | Comandos úteis | `rebase`, `stash`, `cherry-pick`, resolução de conflitos |
-| 🛠️ Extras | Ferramentas que usei | GitHub CLI, VS Code, extensões úteis |
+| Etapa        | Tópico                        | Descrição                                                       |
+|--------------|-------------------------------|------------------------------------------------------------------|
+| 🟢 Início     | O que é Git?                  | Instalação, primeiros comandos, entender o versionamento         |
+| ✍️ Commits    | Salvando alterações            | `git add`, `git commit`, ver histórico                          |
+| 🌿 Branches   | Trabalhando com versões        | Criar, mudar, unir branches (`merge`)                           |
+| 🌐 Remoto     | GitHub e repositórios remotos | `git push`, `git pull`, `git clone`                             |
+| 🔄 Pull Request | Colaboração                 | Como funciona, quando usar, por que é importante                |
+| 🧠 Avançado   | Comandos úteis                 | `rebase`, `stash`, `cherry-pick`, resolução de conflitos        |
+| 🛠️ Extras     | Ferramentas que usei           | GitHub CLI, VS Code, extensões úteis                            |
 
 ---
 
 ## 🛠️ Pré-requisitos
 
-- Git instalado (guia oficial)
+- Git instalado ([site oficial](https://git-scm.com/))
 - Conta no GitHub
-- Editor de código (uso o VS Code)
+- Editor de código (VS Code recomendado)
 
 ---
 
@@ -38,9 +37,9 @@ Se você também está começando, talvez esse material te ajude a entender Git 
 
 ```bash
 # Clone o repositório
-git clone https://github.com/seu-usuario/tutorial-git.git
+git clone https://github.com/wellingtonpawlino/git-curso.git
 
 # Acesse a pasta
-cd tutorial-git
+cd git-curso
 
 # Explore os arquivos por etapa
