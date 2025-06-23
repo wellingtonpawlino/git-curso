@@ -1,5 +1,5 @@
 
-<h1 align="center">🚀 Git & GitHub</h1>
+<h1 align="center">🚀 Git & GitHub </h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/status-em%20desenvolvimento-yellow" />
