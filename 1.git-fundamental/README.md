@@ -48,4 +48,4 @@
 
 ### 🔙 Voltar ao Sumário
 
-[⬅🔙 Voltar ao Sumário Geral](../README.md)
+[🔙 Voltar ao Sumário Geral](../README.md)
