@@ -14,7 +14,7 @@
 
 
 
-## 🧭 Sumário por Etapas
+## 📘 Sumário por Etapas
 
 - [🟢 Fundamentos do Git](./1.git-fundamental/README.md)
 
