@@ -14,3 +14,8 @@ Descreva de forma clara o que foi alterado no código ou na documentação.
 
 ### 🧠 Comentários adicionais
 Coloque observações relevantes para o revisor (opcional).
+
+
+### 🔙 Voltar ao Sumário
+
+[🔙 Voltar ao Sumário Geral](../README.md)

@@ -20,3 +20,6 @@
 | ↩️ Voltar para a `main`       | `git switch main`                                  | Volta para a branch principal                           |
 | 🔗 Unir branch na `main`      | `git merge minha-feature`                          | Une as alterações da branch secundária na principal     |
 
+### 🔙 Voltar ao Sumário
+
+[🔙 Voltar ao Sumário Geral](../README.md)

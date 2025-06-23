@@ -6,6 +6,6 @@ Em construção. Esta pasta faz parte do meu estudo de Git.
 
 ---
 
-## 🧭 Voltar ao Sumário
+### 🔙 Voltar ao Sumário
 
-[⬅️ Voltar ao Sumário Geral](../README.md)
+[🔙 Voltar ao Sumário Geral](../README.md)
