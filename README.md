@@ -11,6 +11,18 @@
 
 ---
 
+
+## 🧭 Sumário por Etapas
+
+- [🟢 Fundamentos do Git](./1.git-fundamental/README.md)
+
+- [✍️ Melhorando os Commits](./2.commits/README.md)
+- [🌿 Branches e Fluxo de Trabalho](./3.branches/README.md)
+- [🌐 Trabalhando com Repositórios Remotos](./4.remoto/README.md)
+- [🔄 Pull Requests e Colaboração](./5.pull-request/README.md)
+- [🧠 Git Avançado: Stash, Rebase e mais](./6.avancado/README.md)
+- [🛠️ Extras e Ferramentas Úteis](./7.extras/README.md)
+
 ## 📚 O que você vai encontrar aqui
 
 | Etapa        | Tópico                        | Descrição                                                       |
