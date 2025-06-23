@@ -44,3 +44,6 @@
 
 > ✍️ *Este projeto é parte do estudo prático de Git & GitHub com foco em versionamento, colaboração e boas práticas.*
 
+## 🧭 Voltar ao Sumário
+
+[⬅️ Voltar ao Sumário Geral](../README.md)
