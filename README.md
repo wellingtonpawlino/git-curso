@@ -15,8 +15,7 @@
 ## 🧭 Sumário por Etapas
 
 - [🟢 Fundamentos do Git](./1.git-fundamental/README.md)
-
-- [✍️ Melhorando os Commits](./2.commits/README.md)
+- [✍️ Melhorando os Commits](./2.trabalhando-com-branches/README.md)
 - [🌿 Branches e Fluxo de Trabalho](./3.branches/README.md)
 - [🌐 Trabalhando com Repositórios Remotos](./4.remoto/README.md)
 - [🔄 Pull Requests e Colaboração](./5.pull-request/README.md)
