@@ -12,14 +12,22 @@
 ---
 
 
+
+
 ## 🧭 Sumário por Etapas
 
 - [🟢 Fundamentos do Git](./1.git-fundamental/README.md)
-- [✍️ Melhorando os Commits](./2.trabalhando-com-branches/README.md)
-- [🌿 Branches e Fluxo de Trabalho](./3.branches/README.md)
-- [🌐 Trabalhando com Repositórios Remotos](./4.remoto/README.md)
-- [🔄 Pull Requests e Colaboração](./5.pull-request/README.md)
-- [🧠 Git Avançado: Stash, Rebase e mais](./6.avancado/README.md)
+
+- [🌿 Branches e Fluxo de Trabalho](./2.trabalhando-com-branches/README.md)
+
+- [🌐 Trabalhando com Repositórios Remotos](./3.compartilhamento-e-atualizacao-do-repositorio/README.md)
+
+- [🔄 Pull Requests e Colaboração](./4.administracao-do-repositorio/README.md)
+
+- [🧠 Git Avançado: Stash, Rebase e mais](./5.private-branch-e-melhorando-mensagens/README.md)
+
+- [✍️ Melhorando os Commits](./6.melhorando-os-commits/README.md)
+
 - [🛠️ Extras e Ferramentas Úteis](./7.extras/README.md)
 
 ## 📚 O que você vai encontrar aqui
