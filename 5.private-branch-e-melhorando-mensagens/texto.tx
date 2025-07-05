@@ -1,6 +1,0 @@
-
-select * from tabela
-
-where anomes = 202507 and nome = 'joao'
-
-
