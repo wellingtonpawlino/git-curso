@@ -39,6 +39,17 @@ Mas você já pode experimentar e praticar os seguintes comandos e boas prática
 
 ---
 
+## 🧩 Outros comandos úteis
+
+| Comando            | O que faz                                  |
+|--------------------|--------------------------------------------|
+| `git stash list`   | Lista todos os stashes salvos              |
+| `git stash apply`  | Aplica o stash sem removê-lo da lista      |
+| `git stash drop`   | Remove um stash específico                 |
+| `git stash clear`  | Limpa todos os stashes salvos              |
+
+
+
 ## 🔙 Voltar ao Sumário
 
 [⬅️ Voltar ao Sumário Geral](../README.md)
