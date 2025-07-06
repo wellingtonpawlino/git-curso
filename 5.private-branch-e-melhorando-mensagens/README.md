@@ -48,7 +48,18 @@ Mas você já pode experimentar e praticar os seguintes comandos e boas prática
 | `git stash drop`   | Remove um stash específico                 |
 | `git stash clear`  | Limpa todos os stashes salvos              |
 
+## 🧰 Comandos e Dicas Úteis
 
+| 📝 Ação                         | 💻 Comando                                           | 🔍 Descrição                                              |
+|--------------------------------|------------------------------------------------------|-----------------------------------------------------------|
+| 📦 Criar stash com descrição    | `git stash push -m "descrição"`                      | Guarda alterações com uma mensagem identificadora         |
+| 📂 Incluir arquivos não rastreados | `git stash push -u -m "inclui arquivos novos"`     | Guarda também arquivos criados mas ainda não adicionados  |
+| 📋 Listar stashes               | `git stash list`                                     | Mostra todos os stashes salvos                            |
+| 🔍 Ver conteúdo do stash        | `git stash show -p stash@{n}`                        | Exibe as alterações guardadas em um stash específico      |
+| 🔄 Aplicar stash                | `git stash apply stash@{n}`                          | Restaura as alterações sem remover da lista               |
+| 🧹 Aplicar e remover            | `git stash pop stash@{n}`                            | Restaura e exclui o stash da lista                        |
+| 🗑️ Remover stash específico     | `git stash drop stash@{n}`                           | Apaga um stash específico                                 |
+| 🧼 Limpar todos os stashes      | `git stash clear`                                    | Remove todos os stashes salvos                            |
 
 ## 🔙 Voltar ao Sumário
 
